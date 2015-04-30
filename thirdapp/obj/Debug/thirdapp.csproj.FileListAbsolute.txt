@@ -1,0 +1,9 @@
+c:\users\eivind\documents\visual studio 2013\Projects\thirdapp\thirdapp\bin\Debug\thirdapp.exe.config
+c:\users\eivind\documents\visual studio 2013\Projects\thirdapp\thirdapp\bin\Debug\thirdapp.exe
+c:\users\eivind\documents\visual studio 2013\Projects\thirdapp\thirdapp\bin\Debug\thirdapp.pdb
+c:\users\eivind\documents\visual studio 2013\Projects\thirdapp\thirdapp\obj\Debug\thirdapp.csprojResolveAssemblyReference.cache
+c:\users\eivind\documents\visual studio 2013\Projects\thirdapp\thirdapp\obj\Debug\thirdapp.Form1.resources
+c:\users\eivind\documents\visual studio 2013\Projects\thirdapp\thirdapp\obj\Debug\thirdapp.Properties.Resources.resources
+c:\users\eivind\documents\visual studio 2013\Projects\thirdapp\thirdapp\obj\Debug\thirdapp.csproj.GenerateResource.Cache
+c:\users\eivind\documents\visual studio 2013\Projects\thirdapp\thirdapp\obj\Debug\thirdapp.exe
+c:\users\eivind\documents\visual studio 2013\Projects\thirdapp\thirdapp\obj\Debug\thirdapp.pdb

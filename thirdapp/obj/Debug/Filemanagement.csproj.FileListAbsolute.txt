@@ -1,0 +1,3 @@
+C:\Users\Eivind\Documents\Visual Studio 2013\Projects\thirdapp\thirdapp\bin\Debug\thirdapp.exe.config
+C:\Users\Eivind\Documents\Visual Studio 2013\Projects\thirdapp\thirdapp\obj\Debug\thirdapp.exe
+C:\Users\Eivind\Documents\Visual Studio 2013\Projects\thirdapp\thirdapp\obj\Debug\thirdapp.pdb

@@ -1,0 +1,11 @@
+C:\Users\Eivind\Documents\Visual Studio 2013\Projects\thirdapp\thirdapp\bin\Release\thirdapp.exe.config
+C:\Users\Eivind\Google Drive\Bacheloroppgave - Basefarm\thirdapp\thirdapp\bin\Release\thirdapp.exe.config
+C:\Users\Eivind\Google Drive\Bacheloroppgave - Basefarm\thirdapp\thirdapp\bin\Release\thirdapp.exe
+C:\Users\Eivind\Google Drive\Bacheloroppgave - Basefarm\thirdapp\thirdapp\bin\Release\thirdapp.pdb
+C:\Users\Eivind\Google Drive\Bacheloroppgave - Basefarm\thirdapp\thirdapp\obj\Release\Filemanagement.csprojResolveAssemblyReference.cache
+C:\Users\Eivind\Google Drive\Bacheloroppgave - Basefarm\thirdapp\thirdapp\obj\Release\thirdapp.FilemanagementForm.resources
+C:\Users\Eivind\Google Drive\Bacheloroppgave - Basefarm\thirdapp\thirdapp\obj\Release\thirdapp.Properties.Resources.resources
+C:\Users\Eivind\Google Drive\Bacheloroppgave - Basefarm\thirdapp\thirdapp\obj\Release\thirdapp.SettingsForm.resources
+C:\Users\Eivind\Google Drive\Bacheloroppgave - Basefarm\thirdapp\thirdapp\obj\Release\Filemanagement.csproj.GenerateResource.Cache
+C:\Users\Eivind\Google Drive\Bacheloroppgave - Basefarm\thirdapp\thirdapp\obj\Release\thirdapp.exe
+C:\Users\Eivind\Google Drive\Bacheloroppgave - Basefarm\thirdapp\thirdapp\obj\Release\thirdapp.pdb
