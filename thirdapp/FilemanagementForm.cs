@@ -34,7 +34,7 @@ namespace thirdapp
         {
             if (string.IsNullOrEmpty(Setpaths.setSwatch))
             {
-                swatchPath = Directory.GetFiles(@"E:\webdevelopment\BachelorOppg\bachelor2015\file\swatch");
+                swatchPath = Directory.GetFiles(@"E:\file\swatch");
 
             }
             else
@@ -53,7 +53,7 @@ namespace thirdapp
         {
             if (string.IsNullOrEmpty(Setpaths.setAlerts))
             {
-                alertPath = Directory.GetFiles(@"E:\webdevelopment\BachelorOppg\bachelor2015\file\alerts");
+                alertPath = Directory.GetFiles(@"E:\file\alert");
 
             }
             else
@@ -79,7 +79,7 @@ namespace thirdapp
 
             if (string.IsNullOrEmpty(Setpaths.setMs))
             {
-                msPath = Directory.GetFiles(@"E:\webdevelopment\BachelorOppg\bachelor2015\file\manualsource");
+                msPath = Directory.GetFiles(@"E:\file\ms");
             }
             else
             {
@@ -133,12 +133,22 @@ namespace thirdapp
 
 
                     teller++;
-                    string swatch = Path.GetFileName(file);
-                    File.Move(file, Path.Combine(filepath, swatch));
+                    string files = Path.GetFileName(file);
+                    if (File.Exists(Path.Combine(filepath, files)))
+                    {
+                        DialogResult message = MessageBox.Show("Filen eksisterer fra før, vil du overskrive den?", "Important Message", MessageBoxButtons.OKCancel);
+                        if (message == DialogResult.Yes)
+                        {
+                            File.Delete(Path.Combine(filepath, files));
+                        }
+                        
+                    }
+                    File.Move(file, Path.Combine(filepath, files));
 
                 }
 
                 MessageBox.Show("Flyttet: " + teller + " filer til" + filepath);
+                cbTypes.SelectedIndex = 0;
                 getManualSource();
             }
             catch (IOException i)

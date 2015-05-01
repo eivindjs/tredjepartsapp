@@ -9,3 +9,12 @@ C:\Users\Eivind\Google Drive\Bacheloroppgave - Basefarm\thirdapp\thirdapp\obj\Re
 C:\Users\Eivind\Google Drive\Bacheloroppgave - Basefarm\thirdapp\thirdapp\obj\Release\Filemanagement.csproj.GenerateResource.Cache
 C:\Users\Eivind\Google Drive\Bacheloroppgave - Basefarm\thirdapp\thirdapp\obj\Release\thirdapp.exe
 C:\Users\Eivind\Google Drive\Bacheloroppgave - Basefarm\thirdapp\thirdapp\obj\Release\thirdapp.pdb
+E:\csharp\tredjepartsapp\thirdapp\bin\Release\thirdapp.exe.config
+E:\csharp\tredjepartsapp\thirdapp\bin\Release\thirdapp.exe
+E:\csharp\tredjepartsapp\thirdapp\bin\Release\thirdapp.pdb
+E:\csharp\tredjepartsapp\thirdapp\obj\Release\thirdapp.FilemanagementForm.resources
+E:\csharp\tredjepartsapp\thirdapp\obj\Release\thirdapp.Properties.Resources.resources
+E:\csharp\tredjepartsapp\thirdapp\obj\Release\thirdapp.SettingsForm.resources
+E:\csharp\tredjepartsapp\thirdapp\obj\Release\Filemanagement.csproj.GenerateResource.Cache
+E:\csharp\tredjepartsapp\thirdapp\obj\Release\thirdapp.exe
+E:\csharp\tredjepartsapp\thirdapp\obj\Release\thirdapp.pdb

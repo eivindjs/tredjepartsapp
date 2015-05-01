@@ -1,3 +1,13 @@
 C:\Users\Eivind\Documents\Visual Studio 2013\Projects\thirdapp\thirdapp\bin\Debug\thirdapp.exe.config
 C:\Users\Eivind\Documents\Visual Studio 2013\Projects\thirdapp\thirdapp\obj\Debug\thirdapp.exe
 C:\Users\Eivind\Documents\Visual Studio 2013\Projects\thirdapp\thirdapp\obj\Debug\thirdapp.pdb
+E:\csharp\tredjepartsapp\thirdapp\bin\Debug\thirdapp.exe.config
+E:\csharp\tredjepartsapp\thirdapp\obj\Debug\thirdapp.exe
+E:\csharp\tredjepartsapp\thirdapp\obj\Debug\thirdapp.pdb
+E:\csharp\tredjepartsapp\thirdapp\bin\Debug\thirdapp.exe
+E:\csharp\tredjepartsapp\thirdapp\bin\Debug\thirdapp.pdb
+E:\csharp\tredjepartsapp\thirdapp\obj\Debug\Filemanagement.csprojResolveAssemblyReference.cache
+E:\csharp\tredjepartsapp\thirdapp\obj\Debug\thirdapp.FilemanagementForm.resources
+E:\csharp\tredjepartsapp\thirdapp\obj\Debug\thirdapp.Properties.Resources.resources
+E:\csharp\tredjepartsapp\thirdapp\obj\Debug\thirdapp.SettingsForm.resources
+E:\csharp\tredjepartsapp\thirdapp\obj\Debug\Filemanagement.csproj.GenerateResource.Cache
